@@ -16,4 +16,4 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 
-Program.java
+src/Program.java

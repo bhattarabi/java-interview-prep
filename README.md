@@ -1,0 +1,1 @@
+This repository contains Java solutions to common software interview questions.
